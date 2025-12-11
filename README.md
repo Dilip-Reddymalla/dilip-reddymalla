@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently an student at CBIT<br>I'm looking for help with web development<br>I'm currently learning web development  <br>I like to explore new things<br>
+I'm currently an student at CBIT<br>I'm currently learning web development  <br>I like to explore new things<br>
 
 
 ## 🌐 Socials:
