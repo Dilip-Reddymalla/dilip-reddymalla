@@ -1,14 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=1">
-  <img src="assets/banner.svg?v=1" alt="Dilip Reddymalla banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img src="banner.svg?v=1" alt="Dilip Reddymalla banner" width="100%">
 </picture>
 
 <br/>
 
-<img src="assets/lanyard.svg?v=1" alt="Dilip Reddymalla ID badge" width="280">
+<img src="lanyard.svg?v=1" alt="Dilip Reddymalla ID badge" width="280">
 
 <br/><br/>
 
