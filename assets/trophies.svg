@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 200" width="780" height="200">
+  <defs>
+    <linearGradient id="tBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f0f36"/><stop offset="100%" stop-color="#150a24"/>
+    </linearGradient>
+    <linearGradient id="cellGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22103a"/><stop offset="100%" stop-color="#170a29"/>
+    </linearGradient>
+    <clipPath id="tClip"><rect x="0" y="0" width="780" height="200" rx="16" ry="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#tClip)">
+    <rect width="780" height="200" fill="url(#tBg)"/>
+    <rect x="1" y="1" width="778" height="198" rx="15" ry="15" fill="none" stroke="#3d1f5c" stroke-width="1.4"/>
+    
+    <g transform="translate(20,34)">
+      <g opacity="0" transform="scale(0.7)" style="transform-origin:69.0px 76.0px">
+        <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.25s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" dur="0.45s" begin="0.25s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.34 1.4 0.6 1" keyTimes="0;1" values="0.7;1"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="url(#cellGrad)" stroke="#ffd166" stroke-width="1.6"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="none" stroke="#ffd166" stroke-width="1.6" opacity="0.5">
+          <animate attributeName="opacity" values="0.25;0.7;0.25" dur="2.4s" begin="0.75s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="69.0" cy="46" r="30" fill="#ffd166" opacity="0.15"/>
+        <text x="69.0" y="58" text-anchor="middle" font-size="30">🦈</text>
+        <text x="69.0" y="104" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="13.5" font-weight="800" fill="#f5e9ff">Pull Shark</text>
+        <text x="69.0" y="122" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="10.5" fill="#c9a6e8">Merged PRs</text>
+        <g clip-path="url(#cellClip0)">
+          <rect x="-100" y="-20" width="60" height="192" fill="#ffffff" opacity="0.12" transform="skewX(-18)">
+            <animate attributeName="x" from="-100" to="198" dur="3s" begin="1.25s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <clipPath id="cellClip0"><rect x="20" y="34" width="138" height="152" rx="14" ry="14"/></clipPath>
+    
+    <g transform="translate(170,34)">
+      <g opacity="0" transform="scale(0.7)" style="transform-origin:69.0px 76.0px">
+        <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.41s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" dur="0.45s" begin="0.41s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.34 1.4 0.6 1" keyTimes="0;1" values="0.7;1"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="url(#cellGrad)" stroke="#7fdbff" stroke-width="1.6"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="none" stroke="#7fdbff" stroke-width="1.6" opacity="0.5">
+          <animate attributeName="opacity" values="0.25;0.7;0.25" dur="2.4s" begin="0.91s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="69.0" cy="46" r="30" fill="#7fdbff" opacity="0.15"/>
+        <text x="69.0" y="58" text-anchor="middle" font-size="30">📦</text>
+        <text x="69.0" y="104" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="13.5" font-weight="800" fill="#f5e9ff">22 Repos</text>
+        <text x="69.0" y="122" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="10.5" fill="#c9a6e8">Public Projects</text>
+        <g clip-path="url(#cellClip1)">
+          <rect x="-100" y="-20" width="60" height="192" fill="#ffffff" opacity="0.12" transform="skewX(-18)">
+            <animate attributeName="x" from="-100" to="198" dur="3s" begin="1.41s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <clipPath id="cellClip1"><rect x="170" y="34" width="138" height="152" rx="14" ry="14"/></clipPath>
+    
+    <g transform="translate(320,34)">
+      <g opacity="0" transform="scale(0.7)" style="transform-origin:69.0px 76.0px">
+        <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.57s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" dur="0.45s" begin="0.57s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.34 1.4 0.6 1" keyTimes="0;1" values="0.7;1"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="url(#cellGrad)" stroke="#ff6ec7" stroke-width="1.6"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="none" stroke="#ff6ec7" stroke-width="1.6" opacity="0.5">
+          <animate attributeName="opacity" values="0.25;0.7;0.25" dur="2.4s" begin="1.07s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="69.0" cy="46" r="30" fill="#ff6ec7" opacity="0.15"/>
+        <text x="69.0" y="58" text-anchor="middle" font-size="30">🌟</text>
+        <text x="69.0" y="104" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="13.5" font-weight="800" fill="#f5e9ff">Pro Member</text>
+        <text x="69.0" y="122" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="10.5" fill="#c9a6e8">GitHub Pro</text>
+        <g clip-path="url(#cellClip2)">
+          <rect x="-100" y="-20" width="60" height="192" fill="#ffffff" opacity="0.12" transform="skewX(-18)">
+            <animate attributeName="x" from="-100" to="198" dur="3s" begin="1.57s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <clipPath id="cellClip2"><rect x="320" y="34" width="138" height="152" rx="14" ry="14"/></clipPath>
+    
+    <g transform="translate(470,34)">
+      <g opacity="0" transform="scale(0.7)" style="transform-origin:69.0px 76.0px">
+        <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.73s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" dur="0.45s" begin="0.73s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.34 1.4 0.6 1" keyTimes="0;1" values="0.7;1"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="url(#cellGrad)" stroke="#a855f7" stroke-width="1.6"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="none" stroke="#a855f7" stroke-width="1.6" opacity="0.5">
+          <animate attributeName="opacity" values="0.25;0.7;0.25" dur="2.4s" begin="1.23s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="69.0" cy="46" r="30" fill="#a855f7" opacity="0.15"/>
+        <text x="69.0" y="58" text-anchor="middle" font-size="30">🤝</text>
+        <text x="69.0" y="104" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="13.5" font-weight="800" fill="#f5e9ff">3 Followers</text>
+        <text x="69.0" y="122" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="10.5" fill="#c9a6e8">Growing Network</text>
+        <g clip-path="url(#cellClip3)">
+          <rect x="-100" y="-20" width="60" height="192" fill="#ffffff" opacity="0.12" transform="skewX(-18)">
+            <animate attributeName="x" from="-100" to="198" dur="3s" begin="1.73s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <clipPath id="cellClip3"><rect x="470" y="34" width="138" height="152" rx="14" ry="14"/></clipPath>
+    
+    <g transform="translate(620,34)">
+      <g opacity="0" transform="scale(0.7)" style="transform-origin:69.0px 76.0px">
+        <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.89s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" from="0.7" to="1" dur="0.45s" begin="0.89s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.34 1.4 0.6 1" keyTimes="0;1" values="0.7;1"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="url(#cellGrad)" stroke="#5fe08a" stroke-width="1.6"/>
+        <rect width="138" height="152" rx="14" ry="14" fill="none" stroke="#5fe08a" stroke-width="1.6" opacity="0.5">
+          <animate attributeName="opacity" values="0.25;0.7;0.25" dur="2.4s" begin="1.39s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="69.0" cy="46" r="30" fill="#5fe08a" opacity="0.15"/>
+        <text x="69.0" y="58" text-anchor="middle" font-size="30">🧩</text>
+        <text x="69.0" y="104" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="13.5" font-weight="800" fill="#f5e9ff">Full-Stack</text>
+        <text x="69.0" y="122" text-anchor="middle" font-family="'Segoe UI',Helvetica,sans-serif" font-size="10.5" fill="#c9a6e8">MERN + REST</text>
+        <g clip-path="url(#cellClip4)">
+          <rect x="-100" y="-20" width="60" height="192" fill="#ffffff" opacity="0.12" transform="skewX(-18)">
+            <animate attributeName="x" from="-100" to="198" dur="3s" begin="1.89s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <clipPath id="cellClip4"><rect x="620" y="34" width="138" height="152" rx="14" ry="14"/></clipPath>
+    
+  </g>
+</svg>

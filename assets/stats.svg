@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" width="480" height="220">
+  <defs>
+    <linearGradient id="sBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f0f36"/><stop offset="100%" stop-color="#150a24"/>
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6ec7"/><stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <clipPath id="sClip"><rect x="0" y="0" width="480" height="220" rx="16" ry="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#sClip)">
+    <rect width="480" height="220" fill="url(#sBg)"/>
+    <rect x="1" y="1" width="478" height="218" rx="15" ry="15" fill="none" stroke="#3d1f5c" stroke-width="1.4"/>
+    <text x="24" y="30" font-family="'Segoe UI',Helvetica,sans-serif" font-size="15" font-weight="800" fill="#f5e9ff">GitHub Snapshot</text>
+
+    <circle cx="100" cy="110" r="62" fill="none" stroke="#3d1f5c" stroke-width="12"/>
+    <circle cx="100" cy="110" r="62" fill="none" stroke="url(#ringGrad)" stroke-width="12"
+      stroke-linecap="round" transform="rotate(-90 100 110)"
+      stroke-dasharray="389.6" stroke-dashoffset="389.6">
+      <animate attributeName="stroke-dashoffset" from="389.6" to="85.7" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.1 0.2 1" keyTimes="0;1" values="389.6;85.7"/>
+    </circle>
+    <text x="100" y="106" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="22" font-weight="800" fill="#f5e9ff">Pro</text>
+    <text x="100" y="126" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#c9a6e8">Active Builder</text>
+
+    
+    <g transform="translate(230,46)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.90s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="40,0" to="0,0" dur="0.5s" begin="0.90s" fill="freeze"/>
+      <text x="0" y="0" font-family="'Segoe UI',Helvetica,sans-serif" font-size="13" fill="#c9a6e8">Public Repositories</text>
+      <text x="230" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#ff6ec7">22</text>
+      <line x1="0" y1="10" x2="230" y2="10" stroke="#3d1f5c" stroke-width="1"/>
+    </g>
+    <g transform="translate(230,86)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.08s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="40,0" to="0,0" dur="0.5s" begin="1.08s" fill="freeze"/>
+      <text x="0" y="0" font-family="'Segoe UI',Helvetica,sans-serif" font-size="13" fill="#c9a6e8">Followers</text>
+      <text x="230" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#ff6ec7">3</text>
+      <line x1="0" y1="10" x2="230" y2="10" stroke="#3d1f5c" stroke-width="1"/>
+    </g>
+    <g transform="translate(230,126)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.26s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="40,0" to="0,0" dur="0.5s" begin="1.26s" fill="freeze"/>
+      <text x="0" y="0" font-family="'Segoe UI',Helvetica,sans-serif" font-size="13" fill="#c9a6e8">Account Type</text>
+      <text x="230" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#ff6ec7">PRO</text>
+      <line x1="0" y1="10" x2="230" y2="10" stroke="#3d1f5c" stroke-width="1"/>
+    </g>
+    <g transform="translate(230,166)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.44s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" additive="sum" from="40,0" to="0,0" dur="0.5s" begin="1.44s" fill="freeze"/>
+      <text x="0" y="0" font-family="'Segoe UI',Helvetica,sans-serif" font-size="13" fill="#c9a6e8">Top Achievement</text>
+      <text x="230" y="0" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" fill="#ff6ec7">Pull Shark 🦈</text>
+      <line x1="0" y1="10" x2="230" y2="10" stroke="#3d1f5c" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
