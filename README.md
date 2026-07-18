@@ -116,40 +116,6 @@
 
 </div>
 
-For a **fully local** activity graph with zero external calls on page load, drop this workflow into `.github/workflows/snake.yml` on your `Dilip-Reddymalla/Dilip-Reddymalla` profile repo — it renders your real contribution history into `assets/snake.svg` on a daily schedule, committed straight to the repo:
-
-```yaml
-name: generate contribution snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Dilip-Reddymalla
-          outputs: assets/snake.svg?palette=github-dark
-      - uses: actions/checkout@v4
-      - run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add assets/snake.svg
-          git commit -m "chore: update contribution snake" || echo "no changes"
-          git push
-```
-
-Then swap the streak image above for:
-
-```md
-<img src="assets/snake.svg?v=1" alt="Contribution snake" width="100%"/>
-```
-
-<br/>
 
 <div align="center">
 
