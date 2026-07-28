@@ -1,33 +1,9 @@
-<<<<<<< HEAD
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=1">
-  <img src="assets/banner.svg?v=1" alt="Dilip Reddymalla banner" width="100%">
-</picture>
-
-<br/>
-
-<img src="assets/lanyard.svg?v=1" alt="Dilip Reddymalla ID badge" width="280">
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-ff6ec7?style=for-the-badge&logo=vercel&logoColor=white)](https://dilip-reddymalla.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Dilip-Reddymalla)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dilip_reddymalla_)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reddymaladilip@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=Dilip-Reddymalla&style=for-the-badge&color=ff6ec7&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Dilip-Reddymalla?style=for-the-badge&color=a855f7&labelColor=1a0b2e)
-
-</div>
 
 <br/>
 
 ## 💫 About Me
 
-- 🎓 Full-stack developer (mainly **backend**) — currently at **CBIT**
+- 🎓 Full-stack developer — currently at **CBIT**
 - 🛠️ Building secure REST APIs with **Node.js, Express, JWT auth & RBAC**
 - 🌱 Sharpening **DSA, System Design, and OOP/DBMS fundamentals**
 - ⚡ Fun fact: my GitHub bio and this whole README run on more animation keyframes than most of my actual apps
@@ -94,49 +70,12 @@
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="assets/stats.svg?v=1" alt="GitHub snapshot" width="47%"/>
-<img src="assets/langs.svg?v=1" alt="Most used languages" width="47%"/>
-
-<br/><br/>
-
-<img src="assets/trophies.svg?v=1" alt="Achievements" width="94%"/>
-</div>
-
-> Stats cards above are self-contained local SVGs (no third-party rendering service, no rate limits) built from my public profile data — 22 public repos, 3 followers, GitHub Pro, and the **Pull Shark** achievement.
-
-<br/>
-
-## 📈 Contribution Activity
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dilip-Reddymalla&theme=dark&hide_border=true&background=1A0B2E&ring=FF6EC7&fire=A855F7&currStreakLabel=F5E9FF)
-
-</div>
-=======
-# 💫 About Me:
-I'm currently an student at CBIT<br>I'm currently learning web development  <br>I like to explore new things<br>
->>>>>>> parent of 1515979 (Revise personal details and add tech stack)
-
-
-<div align="center">
-
-<<<<<<< HEAD
 ### 💌 Let's build something
 
 <a href="mailto:reddymaladilip@gmail.com">reddymaladilip@gmail.com</a> · <a href="https://github.com/Dilip-Reddymalla">@Dilip-Reddymalla</a>
 
 <sub>Break the Limit ✦ built with SMIL/CSS SVG, zero JavaScript, renders natively on GitHub</sub>
-=======
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React Js](https://img.shields.io/badge/REACT-JS) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dilip-Reddymalla&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dilip-Reddymalla&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-Reddymalla&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
->>>>>>> parent of 1515979 (Revise personal details and add tech stack)
 
 </div>
